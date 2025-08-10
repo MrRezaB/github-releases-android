@@ -1,1 +1,3 @@
-
+name = "github-releases"
+main = "worker.js"
+compatibility_date = "2023-08-01"
